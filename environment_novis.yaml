@@ -9,8 +9,8 @@ dependencies:
   - pytorch-scatter
   - torchaudio
   - torchvision
-  - pytorch=1.10
-  - cudatoolkit=11.3
+  - pytorch
+  - cudatoolkit
   - tensorboard
   - scipy
   - opencv

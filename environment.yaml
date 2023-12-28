@@ -1,4 +1,4 @@
-name: droidenv
+name: d2slam
 channels:
   - rusty1s
   - pytorch
@@ -11,8 +11,8 @@ dependencies:
   - torchaudio
   - torchvision
   - open3d
-  - pytorch=1.10
-  - cudatoolkit=11.3
+  - pytorch
+  - cudatoolkit
   - tensorboard
   - scipy
   - opencv
